@@ -28,7 +28,12 @@ redirecTo: '/action-sheet'
         icon: 'person-circle-outline',
         name: 'Avatar',
         redirecTo: '/avatar'
-          }
+          },
+          {
+            icon: 'radio-button-off-outline',
+            name: 'Buttons',
+            redirecTo: '/button'
+              }
 
 ]
 
